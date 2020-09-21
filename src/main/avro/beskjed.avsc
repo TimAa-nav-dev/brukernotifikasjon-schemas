@@ -31,6 +31,10 @@
             "type": "string"
         },
         {
+            "name": "eksternVarsling",
+            "type": "boolean"
+        },
+        {
             "name": "sikkerhetsnivaa",
             "type": "int",
             "default": 4
